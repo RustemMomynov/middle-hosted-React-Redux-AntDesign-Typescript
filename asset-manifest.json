@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/middle-hosted-React-Redux-AntDesign-Typescript/static/css/main.8e8589f7.css",
+    "main.js": "/middle-hosted-React-Redux-AntDesign-Typescript/static/js/main.3063af9b.js",
+    "index.html": "/middle-hosted-React-Redux-AntDesign-Typescript/index.html",
+    "main.8e8589f7.css.map": "/middle-hosted-React-Redux-AntDesign-Typescript/static/css/main.8e8589f7.css.map",
+    "main.3063af9b.js.map": "/middle-hosted-React-Redux-AntDesign-Typescript/static/js/main.3063af9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e8589f7.css",
+    "static/js/main.3063af9b.js"
+  ]
+}
