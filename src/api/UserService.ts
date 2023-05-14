@@ -3,6 +3,6 @@ import { IUser } from "../models/IUser";
 
 export default class UserService {
   static async getUsers(): Promise<AxiosResponse<IUser[]>> {
-    return axios.get<IUser[]>("./users.json");
+    return axios.get<IUser[]>(""https://rustemmomynov.github.io/middle-hosted-React-Redux-AntDesign-Typescript/users.json"");
   }
 }
